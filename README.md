@@ -4,7 +4,7 @@
   <img alt="Hollowc2 — Quant systems, AI security, and open-source engineering" src="./assets/banner-dark.png">
 </picture>
 
-# hollowc2
+
 
 ### Quant systems • AI security • open-source tools • robotics
 
