@@ -8,7 +8,7 @@
 
 ### Quant systems • AI security • open-source tools • robotics
 
-Building automated trading infrastructure, LLM security tools, self-hosted services, and occasionally things with motors.
+Building automated trading infrastructure, self-hosted services and occasionally things with motors.
 
 ## Featured projects
 
@@ -29,13 +29,16 @@ Interactive showcase for 3D-printable stomp rockets.
 - Improving strategy validation and execution safety
 - Building agent-assisted development workflows
 - Experimenting with robotics and embedded systems
+- Having fun while learning new things with LLMs
 
 ## Stack
 
-Python · TypeScript · Rust · Docker · Linux · FastAPI · PostgreSQL
+Python · Rust · Docker · Linux · FastAPI · PostgreSQL
 
 <details>
 <summary>Billy Bitcoin</summary>
 
 I like systems that are observable, reproducible, and a little bit strange. 🤑
+I like making things that make me laugh.
+I like the feeling of learning new skills  or learning how to use a new tool
 </details>
