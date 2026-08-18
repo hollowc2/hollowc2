@@ -1,12 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
-  <img alt="Hollowc2 — Quant systems, AI security, and open-source engineering" src="./assets/banner-light.png">
-</picture>
 
-
-
-### Quant systems • AI security • open-source tools • robotics
 
 Building automated trading infrastructure, self-hosted services and occasionally things with motors.
 
